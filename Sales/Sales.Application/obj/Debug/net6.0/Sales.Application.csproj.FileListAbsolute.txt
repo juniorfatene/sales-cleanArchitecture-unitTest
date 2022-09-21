@@ -1,0 +1,15 @@
+C:\Testes\Pottencial\Pottencial_repositorio\tech-test-payment-api\Sales\Sales.Application\bin\Debug\net6.0\Sales.Application.deps.json
+C:\Testes\Pottencial\Pottencial_repositorio\tech-test-payment-api\Sales\Sales.Application\bin\Debug\net6.0\Sales.Application.dll
+C:\Testes\Pottencial\Pottencial_repositorio\tech-test-payment-api\Sales\Sales.Application\bin\Debug\net6.0\Sales.Application.pdb
+C:\Testes\Pottencial\Pottencial_repositorio\tech-test-payment-api\Sales\Sales.Application\bin\Debug\net6.0\Sales.Domain.dll
+C:\Testes\Pottencial\Pottencial_repositorio\tech-test-payment-api\Sales\Sales.Application\bin\Debug\net6.0\Sales.Domain.pdb
+C:\Testes\Pottencial\Pottencial_repositorio\tech-test-payment-api\Sales\Sales.Application\obj\Debug\net6.0\Sales.Application.csproj.AssemblyReference.cache
+C:\Testes\Pottencial\Pottencial_repositorio\tech-test-payment-api\Sales\Sales.Application\obj\Debug\net6.0\Sales.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Testes\Pottencial\Pottencial_repositorio\tech-test-payment-api\Sales\Sales.Application\obj\Debug\net6.0\Sales.Application.AssemblyInfoInputs.cache
+C:\Testes\Pottencial\Pottencial_repositorio\tech-test-payment-api\Sales\Sales.Application\obj\Debug\net6.0\Sales.Application.AssemblyInfo.cs
+C:\Testes\Pottencial\Pottencial_repositorio\tech-test-payment-api\Sales\Sales.Application\obj\Debug\net6.0\Sales.Application.csproj.CoreCompileInputs.cache
+C:\Testes\Pottencial\Pottencial_repositorio\tech-test-payment-api\Sales\Sales.Application\obj\Debug\net6.0\Sales.Application.csproj.CopyComplete
+C:\Testes\Pottencial\Pottencial_repositorio\tech-test-payment-api\Sales\Sales.Application\obj\Debug\net6.0\Sales.Application.dll
+C:\Testes\Pottencial\Pottencial_repositorio\tech-test-payment-api\Sales\Sales.Application\obj\Debug\net6.0\refint\Sales.Application.dll
+C:\Testes\Pottencial\Pottencial_repositorio\tech-test-payment-api\Sales\Sales.Application\obj\Debug\net6.0\Sales.Application.pdb
+C:\Testes\Pottencial\Pottencial_repositorio\tech-test-payment-api\Sales\Sales.Application\obj\Debug\net6.0\ref\Sales.Application.dll

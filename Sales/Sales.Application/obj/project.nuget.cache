@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Qk/P2i+Migh93BRho8TJQmVuLsXrH+NJM8FeQdaYnmlOxHsXVfwKRNCGV/KjWAdTGoj86XGhJ2dtb1fejdp2Tw==",
+  "success": true,
+  "projectFilePath": "C:\\Testes\\Pottencial\\Pottencial_repositorio\\tech-test-payment-api\\Sales\\Sales.Application\\Sales.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\juare\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
+    "C:\\Users\\juare\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

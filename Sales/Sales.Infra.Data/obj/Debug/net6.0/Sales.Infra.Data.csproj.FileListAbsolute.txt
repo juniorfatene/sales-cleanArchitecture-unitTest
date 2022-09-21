@@ -1,0 +1,17 @@
+C:\Testes\Pottencial\Pottencial_repositorio\tech-test-payment-api\Sales\Sales.Infra.Data\bin\Debug\net6.0\Sales.Infra.Data.deps.json
+C:\Testes\Pottencial\Pottencial_repositorio\tech-test-payment-api\Sales\Sales.Infra.Data\bin\Debug\net6.0\Sales.Infra.Data.runtimeconfig.json
+C:\Testes\Pottencial\Pottencial_repositorio\tech-test-payment-api\Sales\Sales.Infra.Data\bin\Debug\net6.0\Sales.Infra.Data.dll
+C:\Testes\Pottencial\Pottencial_repositorio\tech-test-payment-api\Sales\Sales.Infra.Data\bin\Debug\net6.0\Sales.Infra.Data.pdb
+C:\Testes\Pottencial\Pottencial_repositorio\tech-test-payment-api\Sales\Sales.Infra.Data\bin\Debug\net6.0\Sales.Domain.dll
+C:\Testes\Pottencial\Pottencial_repositorio\tech-test-payment-api\Sales\Sales.Infra.Data\bin\Debug\net6.0\Sales.Domain.pdb
+C:\Testes\Pottencial\Pottencial_repositorio\tech-test-payment-api\Sales\Sales.Infra.Data\obj\Debug\net6.0\Sales.Infra.Data.csproj.AssemblyReference.cache
+C:\Testes\Pottencial\Pottencial_repositorio\tech-test-payment-api\Sales\Sales.Infra.Data\obj\Debug\net6.0\Sales.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Testes\Pottencial\Pottencial_repositorio\tech-test-payment-api\Sales\Sales.Infra.Data\obj\Debug\net6.0\Sales.Infra.Data.AssemblyInfoInputs.cache
+C:\Testes\Pottencial\Pottencial_repositorio\tech-test-payment-api\Sales\Sales.Infra.Data\obj\Debug\net6.0\Sales.Infra.Data.AssemblyInfo.cs
+C:\Testes\Pottencial\Pottencial_repositorio\tech-test-payment-api\Sales\Sales.Infra.Data\obj\Debug\net6.0\Sales.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Testes\Pottencial\Pottencial_repositorio\tech-test-payment-api\Sales\Sales.Infra.Data\obj\Debug\net6.0\Sales.Infra.Data.csproj.CopyComplete
+C:\Testes\Pottencial\Pottencial_repositorio\tech-test-payment-api\Sales\Sales.Infra.Data\obj\Debug\net6.0\Sales.Infra.Data.dll
+C:\Testes\Pottencial\Pottencial_repositorio\tech-test-payment-api\Sales\Sales.Infra.Data\obj\Debug\net6.0\refint\Sales.Infra.Data.dll
+C:\Testes\Pottencial\Pottencial_repositorio\tech-test-payment-api\Sales\Sales.Infra.Data\obj\Debug\net6.0\Sales.Infra.Data.pdb
+C:\Testes\Pottencial\Pottencial_repositorio\tech-test-payment-api\Sales\Sales.Infra.Data\obj\Debug\net6.0\Sales.Infra.Data.genruntimeconfig.cache
+C:\Testes\Pottencial\Pottencial_repositorio\tech-test-payment-api\Sales\Sales.Infra.Data\obj\Debug\net6.0\ref\Sales.Infra.Data.dll
